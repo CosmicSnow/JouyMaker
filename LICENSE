@@ -1,0 +1,92 @@
+Pong Engine - Custom License
+
+Copyright (c) 2026 JouyMaker. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+
+   "Software" refers to the Pong Engine source code, compiled output,
+   assets, configuration files, and all associated documentation.
+
+   "Author" refers to JouyMaker.
+
+   "User" refers to any individual or entity who has obtained a copy
+   of the Software directly from the Author or through an authorized
+   distribution channel.
+
+2. GRANT OF LICENSE
+
+   Subject to the terms of this license, the Author grants the User a
+   non-exclusive, non-transferable, revocable license to:
+
+   a) USE the Software for personal or commercial purposes, including
+      but not limited to live streaming, content creation, and any
+      broadcast activity where the User may earn revenue (e.g.,
+      subscriptions, donations, sponsorships, ad revenue).
+
+   b) MODIFY the Software for the User's own personal use, including
+      customization, configuration changes, and code adaptations to
+      suit the User's individual needs.
+
+3. RESTRICTIONS
+
+   The User is expressly prohibited from:
+
+   a) REDISTRIBUTION — Sharing, publishing, uploading, or otherwise
+      distributing the Software, in whole or in part, whether in its
+      original or modified form, to any third party by any means,
+      including but not limited to public repositories, file-sharing
+      services, forums, or direct transfers.
+
+   b) RESALE — Selling, sublicensing, renting, leasing, or otherwise
+      commercializing the Software itself, whether in its original or
+      modified form. This includes bundling the Software as part of a
+      paid product or service.
+
+   c) CLAIMING AUTHORSHIP — Removing, altering, or obscuring any
+      copyright notices, author attributions, or license texts
+      included in the Software.
+
+4. COMMERCIAL STREAMING CLARIFICATION
+
+   For the avoidance of doubt, using this Software as an overlay,
+   widget, or visual element during a live stream or recorded content
+   where the User earns revenue does NOT constitute "commercializing
+   the Software" under Section 3(b). Such use is explicitly permitted
+   under Section 2(a).
+
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+   CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+6. TERMINATION
+
+   This license is effective until terminated. The Author may
+   terminate this license at any time if the User fails to comply
+   with any of its terms. Upon termination, the User must cease all
+   use of the Software and destroy all copies in their possession.
+
+7. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with
+   applicable copyright law and international treaties.
+
+8. AMENDMENTS
+
+   The Author reserves the right to modify, update, or replace this
+   license at any time. Any changes to this license will apply to
+   future use of the Software. Continued use of the Software after
+   a license update constitutes acceptance of the revised terms.
+
+9. CANONICAL LICENSE
+
+   The latest authoritative version of this license can always be
+   verified at: https://github.com/CosmicSnow/JouyMaker
